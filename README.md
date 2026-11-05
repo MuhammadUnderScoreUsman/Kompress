@@ -62,10 +62,7 @@ projects add the same dependency and get the Android build automatically.
 
 ## 3. Demo
 
-https://github.com/user-attachments/assets/1fe84c4f-5ccf-4ac3-879e-519d9306efff
-
-<video src="https://github.com/user-attachments/assets/79a48697-b519-4464-b396-dfd6442914db" width="100%"></video>
-
+https://github.com/user-attachments/assets/7404efd2-ed71-4691-bb8f-989009cd2b12
 
 **Single Compression**:
 
