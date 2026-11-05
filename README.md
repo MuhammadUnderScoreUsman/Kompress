@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/7404efd2-ed71-4691-bb8f-989009cd2b12
 
 ---
 
-## 4. Why compression?
+## 4. Why Kompress?
 
 Phone cameras produce large files, and most apps do not need them at full size.
 
