@@ -12,7 +12,7 @@ Native codecs under the hood. No bundled encoders. Same code, same result, both 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](LICENSE)
 
 <div align="center">
- <img width="350" src="screenshots/kmp-hero.png" />
+ <img width="750" src="screenshots/kmp-hero.png" />
 </div>
 
 </div>
@@ -45,7 +45,7 @@ scaling fallback, error handling, cancellation) lives in shared Kotlin code, so 
 ## 2. Supported platforms
 
 <div align="center">
- <img width="350" src="screenshots/engines-kmp-vs-native.png" />
+ <img width="750" src="screenshots/engines-kmp-vs-native.png" />
 </div>
 
 
@@ -70,13 +70,13 @@ https://github.com/user-attachments/assets/79a48697-b519-4464-b396-dfd6442914db
 **Single Compression**:
 
 <div align="center">
- <img width="350" src="screenshots/compare-single.png" />
+ <img width="750" src="screenshots/compare-single.png" />
 </div>
 
 **Batch Compression**:
 
 <div align="center">
- <img width="350" src="screenshots/compare-batch.png" />
+ <img width="750" src="screenshots/compare-batch.png" />
 </div>
 
 ---
