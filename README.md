@@ -480,6 +480,10 @@ cancelButton.setOnClickListener { job.cancel() }
 
 ---
 
+_Disclaimer: Image used in this Project for Demo purpose belongs to https://unsplash.com/._
+
+---
+
 ## License
 
 ```
